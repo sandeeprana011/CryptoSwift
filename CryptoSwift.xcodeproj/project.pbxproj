@@ -1170,12 +1170,14 @@
 		75211FA1207249D8004E41F8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Debug;
 		};
 		75211FA2207249D8004E41F8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Release;
 		};
@@ -1183,6 +1185,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FA520724A0F004E41F8 /* CryptoSwift-TestHostApp-Test.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Test;
 		};
@@ -1204,6 +1207,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FAF20724A10004E41F8 /* CryptoSwift-Debug.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Debug;
 		};
@@ -1211,24 +1215,28 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FAC20724A0F004E41F8 /* CryptoSwift-Release.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Release;
 		};
 		754BE46F19693E190098E6F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Debug;
 		};
 		754BE47019693E190098E6F3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Release;
 		};
 		7564F05D2072EAEB00CA5A96 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -1236,6 +1244,7 @@
 		7564F05E2072EAEB00CA5A96 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				SDKROOT = iphoneos;
 			};
 			name = Release;
@@ -1244,6 +1253,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FB120724A10004E41F8 /* Tests-Test.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				SDKROOT = iphoneos;
 			};
 			name = Test;
@@ -1259,6 +1269,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FB420724A10004E41F8 /* CryptoSwift-Test.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Test;
 		};
@@ -1266,18 +1277,21 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FB120724A10004E41F8 /* Tests-Test.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Test;
 		};
 		7595C14F2072E48C00EA1A5F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Debug;
 		};
 		7595C1502072E48C00EA1A5F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Release;
 		};
@@ -1285,6 +1299,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 75211FB120724A10004E41F8 /* Tests-Test.xcconfig */;
 			buildSettings = {
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 			};
 			name = Test;
 		};
